@@ -1,0 +1,11 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(200,130,200);
+}
+
+html {
+    
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgqKHK9QV3kNjVh_rgZOWfH28ffMlNK-28Z1akJdJvWf5tPnhanQ&usqp=CAc") no-repeat;
+}
